@@ -1,0 +1,5 @@
+#profile-title:L2pt-2.0 VPN
+vless://7177f5c4-f26a-4ab5-820f-62cb6ba649f7@31.170.22.193:47997?encryption=none&flow=xtls-rprx-vision&security=tls&sni=apple.com&fp=chrome&pbk=cFora2YYa3aZdpWW8vMD9iX97qRKtyLzXv4pWgXoh20&sid=ead461&packetEncoding=xudp#🇱🇻Латвия L2👾
+vless://00d71a81-6b32-4929-a9e6-dc812c0d6171@5.255.104.65:16057?encryption=none&packetEncoding=xudp#🇳🇱Нидерланды L2👾
+vless://40626018-4cad-4f62-a7bf-baaa892fe383@85.239.49.125:7443?encryption=none&security=tls&sni=rockdash113.argonaft2.online&alpn&type=ws&host=rockdash113.argonaft2.online&path=/api&packetEncoding=xudp#🇮🇹Италия L2👾
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.69:8080#🇳🇱Нидерланды-2 L2👾
