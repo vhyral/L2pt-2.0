@@ -1,7 +1,3 @@
 #profile-title:L2pt-2.0 VPN
 vless://00d71a81-6b32-4929-a9e6-dc812c0d6171@5.255.104.65:16057?encryption=none&packetEncoding=xudp#🇳🇱Нидерланды L2👾
 vless://40626018-4cad-4f62-a7bf-baaa892fe383@85.239.49.125:7443?encryption=none&security=tls&sni=rockdash113.argonaft2.online&alpn&type=ws&host=rockdash113.argonaft2.online&path=/api&packetEncoding=xudp#🇮🇹Италия L2👾
-vless://c343f67e-8781-4a8e-97e4-e74ab137eb1c@5.188.143.8:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=ads.x5.ru&alpn&fp=chrome&pbk=c8x7I-K2ONBUw5B2d1aZr7JNcFUu7GDfs8PAK-4qM1E&sid=0d33e856&packetEncoding=xudp#1🇳🇱🏳️Обход глушилок
-vless://4ae3f4bb-6f11-478a-ade5-d7a667a8c888@130.193.59.133:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=yandex.ru&alpn&fp=chrome&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&sid=f32140952ba18e18&packetEncoding=xudp#2🇮🇹🏳️Обход глушилок
-vless://f625ba3b-93dc-4a87-9e69-f39a2f16ff98@51.250.4.119:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=ads.x5.ru&alpn&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=e55fd8f9c9a9a0ca&packetEncoding=xudp#3🇷🇺🏳️Обход глушилок
-vless://eb4234b2-8083-4038-af1d-ae752b4ad6d4@130.193.59.133:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=yandex.ru&alpn&fp=chrome&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&sid=4ffc99daad0f261f&packetEncoding=xudp#🇷🇺4🏳️Обход глушилок
