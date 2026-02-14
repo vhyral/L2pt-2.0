@@ -1,8 +1,3 @@
 #profile-title:L2pt-2.0 VPN
 vless://00d71a81-6b32-4929-a9e6-dc812c0d6171@5.255.104.65:16057?encryption=none&packetEncoding=xudp#🇳🇱Нидерланды L2👾
 vless://40626018-4cad-4f62-a7bf-baaa892fe383@85.239.49.125:7443?encryption=none&security=tls&sni=rockdash113.argonaft2.online&alpn&type=ws&host=rockdash113.argonaft2.online&path=/api&packetEncoding=xudp#🇮🇹Италия L2👾
-vless://891300bc-11b2-4b24-8056-b329b098888b@borik-crash.org:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=readthedocs.org&alpn&fp=chrome&pbk=8Bz3fNBZ5es7DVPlw8FRzufcncR6auyV_FJFFAKT-WE&sid=a1590469acbe31&packetEncoding=xudp#🇸🇪Швеция L2👾
-vless://7177f5c4-f26a-4ab5-820f-62cb6ba649f7@31.170.22.193:47997?encryption=none&flow=xtls-rprx-vision&security=tls&sni=apple.com&alpn&fp=chrome&pbk=cFora2YYa3aZdpWW8vMD9iX97qRKtyLzXv4pWgXoh20&sid=ead461&packetEncoding=xudp#🇱🇻Латвия L2👾
-vless://0d57032d-f54e-49a4-8285-39840bbf329e@est01-vlr01.tcp-reset-club.net:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=hls-svod.itunes.apple.com&alpn&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=e499f276e7bd6420&packetEncoding=xudp#🇪🇪Эстония L1🌵
-vless://637bd1f3-f097-4fa2-a62d-322f1aede2fe@access-fl26.agveit.pro:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=access-fl26.agveit.pro&alpn&fp=chrome&pbk=KirNNYcecynNjQyb6gQFlHUcpbgijjcxjWgvAFJwmSs&sid=a934cacc5e43cf60&packetEncoding=xudp#🇫🇮Финляндия L1🌵
-vless://18f72be7-0651-4037-928b-8a309d685796@de.pineappled.org:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=google.com&alpn&fp=chrome&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&sid=9eb31eb7572c0882&packetEncoding=xudp#🇩🇪Германия L1🌵
